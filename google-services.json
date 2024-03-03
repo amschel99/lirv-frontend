@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "614849235982",
+    "project_id": "nichlabs",
+    "storage_bucket": "nichlabs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614849235982:android:37515cc5e5984de9c8005f",
+        "android_client_info": {
+          "package_name": "com.nichlabsinc.NichLabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614849235982-g3ltavllh1nsiirdfij5bta1mjdn6jan.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nichlabsinc.NichLabs",
+            "certificate_hash": "492afb89d34c5a5b6bf5e3a28885ee6cc7cf27cf"
+          }
+        },
+        {
+          "client_id": "614849235982-jtmv6hb5bf6ob6q6450heck41c4mvg44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIbJOFbAeBfGWDhTnScl2L4kx1m4P8R4o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614849235982-jtmv6hb5bf6ob6q6450heck41c4mvg44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

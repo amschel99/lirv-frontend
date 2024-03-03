@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "NichLabs",
+    "slug": "NichLabs",
+    "owner": "nichlabsinc",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "googleServicesFile": "./google-services.json",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/adaptive-icon.png",
+        "backgroundColor": "#14244C"
+      },
+      "package": "com.nichlabsinc.NichLabs"
+    },
+    "experiments": {
+      "tsconfigPaths": false
+    },
+    "plugins": ["expo-font"],
+    "extra": {
+      "eas": {
+        "projectId": "75467216-fe5f-4fe6-a090-9d2912a15adf"
+      }
+    }
+  }
+}
